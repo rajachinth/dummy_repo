@@ -2,3 +2,4 @@ new text file
 
 
 dummyline
+new test line added under sub-branch one
